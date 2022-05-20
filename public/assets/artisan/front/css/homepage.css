@@ -1,0 +1,141 @@
+.m-t-80 {
+    margin-top: 80px;
+}
+
+.m-b-80 {
+    margin-bottom: 80px;
+}
+
+.text-block h3 {
+    margin-bottom: 18px;
+    text-transform: uppercase;
+}
+
+.work-heading {
+    font-size: 18px;
+}
+
+.work-p {
+    font-size: 14px;
+}
+.starts-area .single-starts-box .count-number {
+    font-size: 60px;
+    line-height: 80px;
+    color: #fff;
+    font-weight: 700;
+}
+.starts-area .single-starts-box .count-text {
+    font-size: 60px;
+    line-height: 80px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.p-t-b-80{
+    padding: 80px 0px;
+}
+.count-bg{
+    background: #0e263e;
+}
+
+
+.testimonials blockquote {
+    position: relative;
+    padding: 30px;
+    border: 0;
+    background-color: #0d1e30;
+}
+.reviewwrapper blockquote {
+    background-color: #f3f6f9;
+}
+
+.reviewwrapper p {
+    margin-bottom: 10px;
+}
+
+.reviewwrapper .testimonials blockquote p {
+    color: gray
+}
+
+.reviewwrapper h4 {
+    display: block;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.reviewwrapper .testimonials img {
+    bottom: 0;
+    height: auto;
+    left: 0;
+    margin: 10px 0 0 0;
+    position: relative;
+    right: 0;
+    width: 100%;
+}
+
+.testimonials blockquote p {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    font-style: italic;
+    line-height: 24px;
+    font-weight: normal !important;
+}
+
+.testimonials blockquote img {
+    height: 60px;
+    background-color: #0d1e30;
+    width: 60px;
+    position: absolute;
+    border: 0 solid #0d1e30;
+    bottom: -25px;
+    padding: 0;
+    right: 5%;
+    margin-left: -30px;
+}
+.section {
+    padding: 120px 0;
+    display: block;
+    z-index: 2;
+    position: relative;
+}
+.rating i {
+    font-size: 13px;
+}
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    padding: 90px 0;
+    position: relative;
+    width: 100%;
+}
+
+.parallax.parallax-off {
+    background-attachment: scroll !important;
+    display: block;
+    height: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    background-position: top center;
+    vertical-align: sub;
+    width: 100%;
+    z-index: 2;
+}
+
+
+.section.overlay {
+    position:  relative;
+    z-index: 0;
+}
+
+.section.overlay:after {
+    position:  absolute;
+    left:  0;
+    top: 0;
+    width:  100%;
+    height:  100%;
+    z-index: -1;
+    content:  '';
+    background-color: rgba(0,0,0,0.5);
+}

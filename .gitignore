@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/assets/app.zip
+/storage/*.key
+/will
+/will.zip
+/ebeano-market.zip
+/.git1
+/.git2
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

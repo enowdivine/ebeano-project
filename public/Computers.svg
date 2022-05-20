@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1180,0)">
+        <g id="Computers" transform="matrix(1,0,0,1,1180,0)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g id="Computers1" serif:id="Computers">
+                <g transform="matrix(1.13566,0,0,1.13566,-6615.37,1130.9)">
+                    <circle cx="6308" cy="-534" r="366" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g id="Computers2" serif:id="Computers" transform="matrix(0.681745,0,0,0.681745,180.208,137.225)">
+                    <g transform="matrix(0.77012,0,0,0.590971,-784.607,309.226)">
+                        <rect x="1180" y="25" width="1080" height="731" style="fill:rgb(131,13,146);stroke:white;stroke-width:71.14px;"/>
+                    </g>
+                    <g transform="matrix(0.951852,0,0,0.518519,-1097.19,364)">
+                        <path d="M2260,756L1180,756L1180,756.005C1180,815.649 1206.34,864 1238.83,864C1427.02,864 2012.98,864 2201.17,864C2233.66,864 2260,815.649 2260,756.005C2260,756.002 2260,756 2260,756Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

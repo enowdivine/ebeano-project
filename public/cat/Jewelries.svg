@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-4720,0)">
+        <g id="Jewelries" transform="matrix(1,0,0,1,4720,0)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g id="Jewelries1" serif:id="Jewelries">
+                <g transform="matrix(1.13566,0,0,1.13566,-6640.47,1146.84)">
+                    <circle cx="6308" cy="-534" r="366" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g id="Jewelries2" serif:id="Jewelries" transform="matrix(0.75388,0,0,0.75388,156.006,145.687)">
+                    <g transform="matrix(1.27798,0.307829,0.157319,1.39002,-6179.18,-1540.49)">
+                        <path d="M5058.5,187C5185.72,187 5289,290.284 5289,417.5C5289,544.716 5185.72,648 5058.5,648C4931.28,648 4828,544.716 4828,417.5C4828,290.284 4931.28,187 5058.5,187ZM5058.5,244.625C5153.91,244.625 5231.38,322.088 5231.38,417.5C5231.38,512.912 5153.91,590.375 5058.5,590.375C4963.09,590.375 4885.62,512.912 4885.62,417.5C4885.62,322.088 4963.09,244.625 5058.5,244.625Z" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(-0.390747,-1.25512,1.1129,-0.847571,2159.96,7173.87)">
+                        <path d="M5058.5,187C5185.72,187 5289,290.284 5289,417.5C5289,544.716 5185.72,648 5058.5,648C4931.28,648 4828,544.716 4828,417.5C4828,290.284 4931.28,187 5058.5,187ZM5058.5,244.625C5153.91,244.625 5231.38,322.088 5231.38,417.5C5231.38,512.912 5153.91,590.375 5058.5,590.375C4963.09,590.375 4885.62,512.912 4885.62,417.5C4885.62,322.088 4963.09,244.625 5058.5,244.625Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

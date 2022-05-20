@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-9406.5,0)">
+        <g id="Kiddies" transform="matrix(1,0,0,1,9406.5,0)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g id="Kiddies1" serif:id="Kiddies">
+                <g transform="matrix(1.13566,0,0,1.13566,-6574.57,1146.84)">
+                    <circle cx="6308" cy="-534" r="366" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g id="Kiddies2" serif:id="Kiddies" transform="matrix(0.75025,0,0,0.75025,184.015,69.9964)">
+                    <g transform="matrix(0.925714,0,0,1,-8667.62,0)">
+                        <path d="M10116.1,600L10236.5,600C10269.6,600 10296.5,626.863 10296.5,660L10296.5,960L9596.5,960C9596.5,960 9596.5,762.41 9596.5,660C9596.5,626.863 9623.36,600 9656.5,600L9776.86,600C9808.25,661.828 9872.46,704.242 9946.5,704.242C10020.5,704.242 10084.8,661.828 10116.1,600Z" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(0.345508,0,0,0.339211,-2081.2,277.379)">
+                        <ellipse cx="7586.5" cy="564.903" rx="506.5" ry="515.903" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

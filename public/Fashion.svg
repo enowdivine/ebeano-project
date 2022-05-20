@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-5900,0)">
+        <g id="Fashion" transform="matrix(1,0,0,1,5900,0)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g id="Fashion1" serif:id="Fashion">
+                <g transform="matrix(1.13566,0,0,1.13566,-6618.61,1142.09)">
+                    <circle cx="6308" cy="-534" r="366" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g id="Fashion2" serif:id="Fashion" transform="matrix(0.771482,0,0,0.771482,-4423,-4.20094)">
+                    <path d="M6833.2,492.563L6833.69,491.163L6900.78,753.718L6768.71,748.008L6683.53,1080L6196.47,1080L6111.54,748.971L5978.61,754.718L6045.7,492.163L6046.08,493.231L6234.87,319.517C6250.82,444.724 6336.65,540.491 6440,540.491C6543.35,540.491 6629.18,444.724 6645.13,319.517L6833.2,492.563Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

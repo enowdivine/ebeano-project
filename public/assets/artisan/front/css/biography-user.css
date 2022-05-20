@@ -1,0 +1,123 @@
+
+.item-price span {
+    color: #ffffff;
+    display: block;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+    padding: 0 0 5px;
+}
+
+.sidebar .widget {
+    display: block;
+    position: relative;
+}
+.section.wb .sidebar .widget {}
+.rating {
+    padding: 0 0 13px;
+}
+
+.rating small {
+    display: block;
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: capitalize;
+}
+
+.rating i {
+    font-size: 13px;
+}
+
+.fa-star {
+    color: #ffd800;
+}
+.link-widget ul {
+    padding: 0 !important;
+}
+
+.link-widget li {
+    list-style: none;
+    font-size: 14px;
+    color: #070707;
+}
+.item-price small {
+    font-size: 13px !important;
+    margin: 0 5px 0 0;
+    text-transform: uppercase;
+}
+.item-price small a {
+    color: #fff;
+}
+.check {
+    padding: 0;
+    margin-left: 0;
+}
+
+.customwidget {
+    padding: 40px 20px;
+}
+.black{color: #0a0a0a}
+
+
+.customwidget .content-title,
+.customwidget .content-title h4 {
+    color: #ffffff;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    line-height: 1;
+}
+
+.customwidget hr {
+    background-color: #021325;
+    border-color: rgba(255, 255, 255, 0.1);
+    height: 2px;
+    margin: 15px 0;
+}
+
+.customwidget .btn {
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.customwidget li {
+    padding-left: 40px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.customwidget li:before {
+    content: "\f00c";
+}
+.verification-list li,
+.check li {
+    font-size: 14px;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.verification-list li i {
+    padding-right: 5px;
+}
+
+.verification-list li.done {}
+
+.verification-list,
+.check {
+    padding: 0;
+    margin-left: 0;
+}
+.bs-donebutton {
+    padding: 4px 8px;
+}
+
+.sidebar .widget-title h4 {
+    font-size: 20px;
+    line-height: 38px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    padding-top: 0;
+    text-transform: capitalize;
+}
+
+
+

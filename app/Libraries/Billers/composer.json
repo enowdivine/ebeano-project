@@ -1,0 +1,21 @@
+{
+    "name": "interswitch/billers",
+    "description": "An Interswitch PHP Library for B2C bill payments.",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Lekan Omotayo",
+            "email": "developer@interswitchgroup.com"
+        }
+    ],
+    "require": {
+        "interswitch/interswitch": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Billers\\": ["src/"]
+        }
+    }
+    
+}

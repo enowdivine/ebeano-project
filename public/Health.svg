@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-7080,0)">
+        <g id="Health" transform="matrix(1,0,0,1,7080,0)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g id="Health1" serif:id="Health" transform="matrix(0.820654,0,0,0.820654,96.8471,96.8471)">
+                <g transform="matrix(1,0,0,0.981773,-7046.5,-14.6069)">
+                    <ellipse cx="7586.5" cy="564.903" rx="506.5" ry="515.903" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g transform="matrix(0.880189,0,0,0.880189,-6167.04,64.698)">
+                    <path d="M7674,486L7674,108L7566,108L7566,486L7188,486L7188,594L7566,594L7566,972L7674,972L7674,594L8052,594L8052,486L7674,486Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

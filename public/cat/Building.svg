@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-8260,0)">
+        <g id="Building-materials" serif:id="Building materials" transform="matrix(1,0,0,1,8260,0)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g>
+                <g transform="matrix(0.820654,0,0,0.805696,-5656.73,80.5209)">
+                    <ellipse cx="7586.5" cy="564.903" rx="506.5" ry="515.903" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g id="Building-materials1" serif:id="Building materials" transform="matrix(0.756855,0,0,0.756855,-6065.21,102.078)">
+                    <path d="M8830.5,326.42L8830.5,219.226L8702.5,219.226L8702.5,326.42L8670.5,326.42L8670.5,433.613L8622.5,433.613L8622.5,540.807L8550.5,540.807L8550.5,648L8442.5,648L8442.5,756L8332.92,756L8332.92,864L9198.5,864L9198.5,756L9090.5,756L9090.5,648L8982.5,648L8982.5,540.807L8910.5,540.807L8910.5,433.613L8862.5,433.613L8862.5,326.42L8830.5,326.42Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

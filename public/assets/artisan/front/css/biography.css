@@ -1,0 +1,249 @@
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    padding: 90px 0;
+    position: relative;
+    width: 100%;
+}
+
+.parallax.parallax-off {
+    background-attachment: scroll !important;
+    display: block;
+    height: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    background-position: top center;
+    vertical-align: sub;
+    width: 100%;
+    z-index: 2;
+}
+
+
+.section {
+    padding: 40px 0;
+    display: block;
+    z-index: 2;
+    position: relative;
+}
+.page-title .lead {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.page-title .social-small {
+    margin-top: 25px;
+}
+.profile-image {
+    max-width: 100px;
+    margin: 0 auto 15px;
+}
+.lead {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+}
+.social-small li .fa {
+    color: #ffffff;
+    width: 30px;
+    height: 30px;
+    background-color: #ddd;
+    display: block;
+    text-align: center;
+    line-height: 30px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.social-small li {
+    padding: 0;
+    margin-right: 2px !important;
+}
+
+.social-small li .fa-facebook,
+.fb-button.btn-primary:focus,
+.fb-button.btn-primary:hover,
+.fb-button.btn-primary {
+    background-color: #3B5998 !important;
+    border-color: #3B5998 !important;
+}
+
+.social-small li .fa-twitter,
+.tw-button.btn-primary:hover,
+.tw-button.btn-primary:focus,
+.tw-button.btn-primary {
+    background-color: #00B6F1 !important;
+    border-color: #00B6F1 !important;
+}
+
+.social-small li .fa-linkedin {
+    background-color: #007bb5;
+    border-color: #007bb5;
+}
+
+.social-small li .fa-pinterest {
+    background-color: #cb2027;
+    border-color: #cb2027;
+}
+
+.social-small li .fa-instagram {
+    background-color: #125688;
+    border-color: #125688;
+}
+
+.social-small li .fa-rss {
+    background-color: #f36f24;
+    border-color: #f36f24;
+}
+.post-padding {
+    padding: 30px;
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+
+.single-content h4.small-title {
+    border-bottom: 1px solid #34495e;
+    font-size: 18px;
+    line-height: 27px;
+    padding-bottom: 20px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.single-content h4.small-title .readmore {
+    position: absolute;
+    text-transform: capitalize;
+    font-size: 14px;
+    right: 0;
+}
+.single-content h5.small-title {
+    font-size: 15px;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+
+.single-content p {
+    margin-bottom: 20px;
+    padding: 0;
+}
+.customlist {
+    padding: 0;
+    list-style: none;
+}
+
+.customlist li {
+    margin-bottom: 10px;
+}
+
+.customlist li:last-child {
+    margin-bottom: 0;
+}
+
+.customlist li:before {
+    content: "\f00c";
+    padding: 0 10px 0 0;
+    font-family: FontAwesome;
+}
+.recentworks .service-title {
+    padding: 20px;
+}
+
+.recentworks .service-title h4 {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.job-table .btn {
+    margin: 0 0;
+    width: 26px;
+}
+
+.job-table h4 {
+    font-size: 15px;
+}
+.job-table h4 a{
+    color: #00b894
+}
+
+.job-table small {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 5px;
+    font-size: 11px !important;
+    line-height: 1 !important;
+    color: #ff6b6b;
+
+}
+.small-detail h4 {
+    font-size: 15px;
+    padding: 0;
+    margin: 0 0 10px;
+    line-height: 1;
+}
+.customwidget {
+    padding: 40px 20px;
+    background-color: #e7eceb;
+}
+.customwidget .content-title, .customwidget .content-title h4 {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    line-height: 1;
+}
+
+.sidebar .submit-form .form-control {
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.submit-form .form-control::-moz-placeholder {
+    color: #656565;
+    opacity: 1;
+}
+
+.submit-form .form-control:-ms-input-placeholder {
+    color: #656565;
+}
+
+.submit-form .form-control::-webkit-input-placeholder {
+    color: #656565;
+}
+
+.submit-form hr {
+    margin: 15px 0
+}
+.freelancer-list .badge,
+.customform .btn-group-vertical > .btn,
+.customform .btn-group > .btn,
+.customform .form-control,
+.submit-form .form-control,
+.clients-name,
+.blog-meta li a,
+.lead,
+small,
+.home-title p,
+.job-meta p,
+.company-links li a,
+.job-tab small {
+    font-family: 'poppinslight';
+    font-weight: normal !important;
+}
+
+.submit-form textarea {
+    min-height: 140px !important;
+}
+
+.content-title h4 {
+    border-bottom: 1px solid #34495e;
+    font-size: 18px;
+    line-height: 27px;
+    padding-bottom: 20px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.invis{
+    border-top: 1px solid #34495e;
+}

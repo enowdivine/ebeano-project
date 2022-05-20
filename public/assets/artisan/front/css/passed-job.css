@@ -1,0 +1,85 @@
+
+.post-padding {
+    padding: 0px 30px 30px;
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+}
+.all-jobs {
+    position: relative;
+}
+.job-listing .job-tab {
+    border-bottom: 1px solid #34495e;
+}
+.active-jobs .job-tab {
+    padding: 20px 0;
+    box-shadow: none !important;
+}
+
+.active-jobs .job-tab:last-child {
+    border-bottom: 0 !important;
+}
+.job-table .btn {
+    margin: 0 0;
+    width: 26px;
+}
+
+.job-table h4 {
+    font-size: 15px;
+}
+
+.job-table small {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 5px;
+    font-size: 11px !important;
+    line-height: 1 !important
+}
+
+.freelancer-badge, .btn-default {
+    color: #ffffff !important;
+    background-color: #27ae60 !important;
+    border-color: #22c065 !important;
+}
+.badge {
+    margin-top: 20px;
+    border-radius: 3px;
+    padding: 4px 16px;
+}
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #777;
+    border-radius: 10px;
+}
+.job-tab h4 {
+    padding: 20px 0 10px;
+    margin: 10px 0 0;
+    line-height: 1;
+    font-size: 18px;
+}
+.job-meta .btn {
+    font-size: 13px;
+    line-height: 1;
+    padding: 6px;
+    text-transform: capitalize;
+}
+.job-tab h3 a{
+    color: #2ecc71 !important;
+}
+.job-tab h3 {
+    font-size: 18px;
+    padding: 13px 0 5px;
+    margin: 0;
+}
+.job-tab small span {
+    padding-right: 10px;
+}

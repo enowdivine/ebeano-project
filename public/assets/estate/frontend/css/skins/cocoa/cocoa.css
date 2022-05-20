@@ -1,0 +1,152 @@
+/* Backgrounds ----------------------------------------------------------*/
+
+.camera_prevThumbs, .camera_nextThumbs, .camera_prev, .camera_next, .camera_commands, .camera_thumbs_cont,
+.camera_wrap .camera_pag .camera_pag_ul li.cameracurrent > span,
+#theme-options .layout-style li.active,
+.paginations li:hover,
+.paginations .active,
+.image_post ul li,
+.item_table_resalt .head_table,
+.item_table .button:hover,
+.circle_left,
+.circle_right,
+.tags li:hover,
+.social li,
+.caption-head:hover,
+.item_service .image_service,
+.sf-menu li li a:hover,
+.jBar .botton,
+.downarrow,
+.jRibbon,
+.line,
+.search_box .button,
+.camera_caption h1,
+.button,
+.button:hover,
+ul.tabs li:hover,
+html ul.tabs li.active, html ul.tabs li.active a:hover,
+.accordion-trigger:hover,
+.tooltip-inner,
+.properties-carousel .owl-controls .owl-nav div,
+.owl-theme .owl-dots .owl-dot span,
+.bar_properties .active,
+.filter_horizontal{
+	background: #755C3B !important; 
+	background-color: #755C3B !important; 
+}
+
+.accordion-trigger.active{	
+	background: #755C3B url("../../../img/toggle.html") no-repeat right -69px;
+}
+.sale{
+	background: url("for_sale.png") no-repeat;
+}
+.rent{
+	background: url("for_rent.png") no-repeat;
+}
+.offer{
+	background: url("to_offer.png") no-repeat;
+}
+
+
+/* Colors ----------------------------------------------------------*/
+
+a:hover,
+.post h2:hover,
+.title_solutions h3,
+.head_table h2,
+.item_service:hover i,
+.more_slide ul li i,
+.item_property_h .line_property,
+.section_title span a,
+.sf-menu > li > a:hover,
+.info_head .dropdown-toggle:hover,
+.info_head .dropdown-toggle:focus,
+.camera_property h4:hover,
+.camera_property h1,
+.item_property a,
+.item_property h5,
+.portal .info_property a,
+.info_property_h span,
+.contact_footer li a:hover,
+footer .links li a:hover{
+	color: #755C3B;
+}
+
+/* Borders ----------------------------------------------------------*/
+
+.info_property,
+.newsletter_box,{	
+	border-top: 3px solid #755C3B;
+}
+.tooltip.top .tooltip-arrow {
+  border-top-color: #755C3B;
+}
+.image_post{
+	border:3px solid #755C3B;
+}
+.item_team{
+	border-bottom: 3px solid #755C3B;
+}
+.item_table_resalt{		
+	border: 1px solid #755C3B;
+	border-bottom: 3px solid #755C3B;	
+}
+.item_agent .image_agent img{		
+	border-bottom: 4px solid #755C3B;
+}
+.footer_medium:after{
+	border-top: 20px solid #755C3B;
+}
+.footer_medium,
+.content_info{
+	border-top: 5px solid #755C3B;
+}
+.item_service:hover .image_service{
+	border: 4px solid #755C3B;	
+}
+.newsletter_box:after{
+  border-color: transparent #755C3B 
+                transparent transparent;
+}
+.sf-menu > li:hover{
+	border-top: 1px solid #755C3B;
+	border-bottom: 1px solid #755C3B;
+}
+.titles h1{
+	border-bottom: 8px solid #755C3B;
+}
+.camera_property{
+	border-top: 3px solid #755C3B;
+}
+.camera_property ul{
+	border-right: 1px solid #755C3B;
+}
+.camera_caption p,
+.camera_caption ul li{
+	border-left: 5px solid #755C3B;	
+}
+.camera_caption h1:before{
+  border-color: transparent #755C3B 
+                transparent transparent;
+}
+.tab_container{
+	border-right: 3px solid #755C3B;
+}
+.description,
+.properties-carousel{
+	border-bottom: 3px solid #755C3B;
+}
+.item_property:hover .info_property{
+	border-bottom: 3px solid #755C3B;
+	border-top: 3px solid #755C3B;
+}
+.item_property h5{	
+	border-left: 4px solid #755C3B;
+}
+.item_table_resalt:after{
+	border-bottom: 30px solid #755C3B;
+}
+.item_team:after{
+	border-bottom: 20px solid #755C3B;
+}

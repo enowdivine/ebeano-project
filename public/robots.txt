@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://ebeanomarket.com/sitemap.xml
+Sitemap: https://ebeanomarket.com/sitemap0.xml
+Sitemap: https://ebeanomarket.com/sitemap1.xml
+Sitemap: https://ebeanomarket.com/sitemap2.xml
+Sitemap: https://ebeanomarket.com/sitemap3.xml
+Sitemap: https://ebeanomarket.com/sitemap4.xml

@@ -1,0 +1,603 @@
+@media only screen and (min-width: 1602px) and (max-width: 1680px) {
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 30px 0px;
+    }
+
+}
+
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 1442px) and (max-width: 1600px) {
+    .practise-area .single-practise-box .content .title {
+        font-size: 25px;
+    }
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 30px 0px;
+    }
+}
+
+
+@media only screen and (min-width: 1367px) and (max-width: 1440px) {
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 30px 0px;
+    }
+    .blog-section2 {
+        padding-top: 120px;
+        padding-bottom: 50px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+    .how-it-work .how-it-work-progress{
+        left: 50%;
+    }
+    .blog-section2 {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+
+    .blog-section-70 {
+        padding-top: 70px;
+        padding-bottom: 52px;
+    }
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 30px 0px;
+    }
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .how-it-work .how-it-work-progress {
+        left: 40%;
+    }
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 30px 0px;
+    }
+    .blog-section2 {
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .counter-and-subscribe-area .single-counter-box {
+        margin-top: 0px;
+        margin-bottom: 10px;
+        position: relative;
+        border: 10px solid #fff;
+        background-color: #040A2C;
+        text-align: center;
+        z-index: 0;
+        padding: 78px 0 70px 0;
+        overflow: hidden;
+    }
+    .how-it-work .how-it-work-progress,
+    .reward-area .left-content-area {
+        display: none;
+    }
+    .how-it-work .how-it-work-progress,
+    .reward-area .left-content-area,
+    .header-area .header-shape-4 {
+        display: none;
+    }
+    .practise-area .single-practise-box {
+        margin-bottom: 80px;
+    }
+    .practise-area {
+        padding-bottom: 50px;
+    }
+    .about-us-aera .left-content-area .thumb img {
+        width: 100%;
+    }
+    .about-us-aera.home-2 .left-content-area{
+        margin-bottom: 60px;
+    }
+    .footer-support-list ul li {
+        margin-right: 12px;
+    }
+    .footer-support-list ul li .footer-content p {
+        font-size: 14px;
+    }
+    .footer-bottom .footer-menu ul {
+        margin: 0;
+        padding: 2px 0px 2px 156px;
+    }
+    .contact-section1{
+        padding: 40px 0px;
+    }
+    .footer-bottom .footer-menu ul{
+        text-align: center;
+    }
+
+    .postlist-tab h4 {
+        padding: 0px 0 10px;
+        margin: 10px 0 0;
+        line-height: 1;
+        font-size: 12px;
+    }
+    .label {
+        text-shadow: none!important;
+        font-size: 9px;
+        font-weight: 300;
+        padding: 3px 6px;
+        color: #fff;
+        font-family: "Open Sans",sans-serif;
+    }
+    .job-meta p {
+        padding: 15px 0 0;
+        margin: 0;
+        line-height: 1;
+        /* font-size: 21px; */
+        font-size: 14px;
+    }
+    .loadmore_button .btn {
+        line-height: 1;
+        font-size: 15px;
+        padding: 10px 45px !important;
+    }
+
+    .single-content h4.small-title {
+        border-bottom: 1px solid #34495e;
+        font-size: 18px;
+        line-height: 27px;
+        padding-bottom: 7px;
+        position: relative;
+        margin-bottom: 8px;
+    }
+    .single-content p {
+        margin-bottom: 0px;
+        padding: 0;
+    }
+
+    .item-price span {
+        color: #ffffff;
+        display: block;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1;
+        margin: 0;
+        padding: 0 0 0px;
+    }
+    .post-padding {
+        padding: 5px 30px;
+        display: block;
+        position: relative;
+        margin-bottom: 0px;
+    }
+    .customwidget {
+        padding: 19px 25px;
+    }
+
+    .blog-section2 {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .side-events-item {
+        padding: 12px 15px;
+        margin: 0px 10px;
+        font-size: 14px;
+        overflow: hidden;
+    }
+
+    .header-wrapper .navbar-default .navbar-collapse.collapse .navbar-nav li .mega-menu2 {
+        right: 80px;
+    }
+    .header-wrapper .navbar-default .navbar-collapse.collapse .navbar-nav li .mega-menu2.withd {
+        right: 184px;
+    }
+    .job-meta.text-center {
+        margin-top: 15px;
+    }
+    table tr {
+         border-bottom: 3px solid #131C24;
+        display: block;
+        margin-bottom: .625em;
+    }
+    .about-section {
+        padding: 70px 0px;
+    }
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 15px 0px;
+    }
+
+    .about-content h3 {
+        padding-top: 20px;
+    }
+}
+
+/* Tablet Layout wide: 768px. */
+
+@media only screen and (max-width: 767px) {
+    .counter-and-subscribe-area .single-counter-box {
+        margin-top: 0px;
+        position: relative;
+        border: 10px solid #fff;
+        background-color: #040A2C;
+        text-align: center;
+        z-index: 0;
+        padding: 78px 0 70px 0;
+        overflow: hidden;
+    }
+    .about-us-aera .left-content-area .thumb img {
+        width: 100%;
+    }
+    .about-us-aera.home-2 .left-content-area {
+        margin-bottom: 60px;
+    }
+    .about-us-aera .single-about-box{
+        height: 240px;
+    }
+    .about-us-aera .single-about-box{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .header-wrapper .navbar-default .navbar-collapse.collapse .navbar-nav li a {
+
+        background-color: #fff;
+    }
+    .header-wrapper .navbar-default .navbar-collapse.collapse .navbar-nav .open .dropdown-menu {
+         background-color: #fff;
+    }
+    .footer-support-list ul li {
+        margin-right: 10px !important;
+    }
+    .footer-support-list ul li .footer-content p {
+        font-size: 10px;
+    }
+
+}
+
+/* medium tablet layout 599px */
+
+@media only screen and (max-width: 599px) {
+    .counter-and-subscribe-area .single-counter-box {
+        margin-top: 0px;
+        position: relative;
+        border: 10px solid #fff;
+        background-color: #040A2C;
+        text-align: center;
+        z-index: 0;
+        padding: 78px 0 70px 0;
+        overflow: hidden;
+    }
+    .practise-area .single-practise-box .content .title {
+        font-size: 22px;
+    }
+    .practise-area .single-practise-box {
+        margin-bottom: 80px;
+    }
+
+    .practise-area {
+        padding-bottom: 40px;
+    }
+    .about-us-aera .single-about-box {
+        height: 290px;
+    }
+    a.list-group-item {
+        width: 100%;
+    }
+    .job-meta p {
+        padding: 18px 0px 0px 30px;
+        margin: 0;
+        line-height: 1;
+        font-size: 16px;
+    }
+    .postlist-tab h4 {
+        padding: 0px 0 10px;
+        margin: 10px 0 0;
+        line-height: 1;
+        font-size: 14px;
+    }
+    .loadmore_button .btn {
+        line-height: 1;
+        font-size: 15px;
+        padding: 8px 50px !important;
+    }
+    .fa-map-marker{
+        float: left ;
+        margin-top: 20px ;
+        font-size: 22px;
+    }
+    .post-meta img {
+        width: 50%;
+    }
+    .post-padding {
+        padding: 5px 30px;
+        display: block;
+        position: relative;
+        margin-bottom: 0px;
+    }
+    .section {
+        padding: 50px 0;
+        display: block;
+        z-index: 2;
+        position: relative;
+    }
+    .item-price span {
+        color: #ffffff;
+        display: block;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1;
+        margin: 0;
+        padding: 0 0 0px;
+    }
+    .side-events-item {
+        padding: 10px 15px;
+        margin: 0px 10px;
+        color: #fff;
+        font-size: 14px;
+        overflow: hidden;
+        display: block;
+    }
+    .blog-section2 {
+        padding-top: 35px;
+        padding-bottom: 85px;
+    }
+    .post-media img{
+        max-width: 30%;
+        float: right;
+    }
+    .job-meta a i {
+        margin-top: 0px;
+        margin-left: 15px;
+        float: left;
+    }
+    .w-40{
+        margin-top: 20px;
+        width: 80px !important;
+    }
+    .freelancer-list .badge {
+        padding: 2px 10px;
+        background-color: #ee5253 !important;
+        color: #fff !important;
+        border: 1px solid #ee5253 !important;
+        margin: 15px 0px;
+    }
+    table tr {
+        border-bottom: 3px solid #131C24;
+        display: block;
+        margin-bottom: .625em;
+    }
+    .post-media img{
+        float: left;
+        width: 60%;
+    }
+    .about-section {
+        padding: 55px 0px;
+    }
+    .single-starts-box {
+        margin-bottom: 15px;
+        padding: 15px 0px;
+    }
+    .about-content h3 {
+        padding-top: 20px;
+    }
+    .title-responsive{
+        font-size: 10px;
+    }
+}
+
+/* mobile tablet layout 414px */
+
+@media only screen and (max-width: 414px) {
+    .counter-and-subscribe-area .single-counter-box {
+        margin-top: 0px;
+        position: relative;
+        border: 10px solid #fff;
+        background-color: #040A2C;
+        text-align: center;
+        z-index: 0;
+        padding: 78px 0 70px 0;
+        overflow: hidden;
+    }
+    .counter-and-subscribe-area .subscribe-outer-wrapper .subscribe-form-wrapper .submit-btn {
+        position: initial;
+        float: none;
+        margin-top: 20px;
+        height: 55px;
+        line-height: 55px;
+        width: 160px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .counter-and-subscribe-area .subscribe-outer-wrapper .title {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    a.list-group-item {
+        width: 100%;
+    }
+}
+
+/* mobile tablet layout 375px */
+
+@media only screen and (max-width: 384px) {
+    a.list-group-item {
+        width: 100%;
+    }
+}
+
+/* mobile tablet layout 360px */
+
+@media only screen and (max-width: 360px) {
+    a.list-group-item {
+        width: 100%;
+    }
+    .counter-and-subscribe-area .single-counter-box {
+        margin-top: 0px;
+        position: relative;
+        border: 10px solid #fff;
+        background-color: #040A2C;
+        text-align: center;
+        z-index: 0;
+        padding: 78px 0 70px 0;
+        overflow: hidden;
+    }
+}
+
+/* mobile tablet layout 320px */
+
+@media only screen and (max-width: 320px) {
+
+    .counter-and-subscribe-area .subscribe-outer-wrapper .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .counter-and-subscribe-area .single-counter-box {
+         margin-top: 0px;
+        position: relative;
+        border: 10px solid #fff;
+        background-color: #040A2C;
+        text-align: center;
+        z-index: 0;
+        padding: 78px 0 70px 0;
+        overflow: hidden;
+    }
+
+    #back-to-top {
+        display: block;
+        width: 32px;
+        height: 32px;
+        right: 7px;
+        bottom: 50px;
+        position: fixed;
+        text-align: center;
+        font-size: 20px;
+        line-height: 32px;
+        font-weight: bold;
+    }
+
+    a.list-group-item {
+        width: 100%;
+    }
+
+    .footer-support-list ul {
+        display: inline-block;
+        margin: 0px;
+        padding-bottom: 12px;
+        padding-left: 35px;
+    }
+
+    .footer-support-list ul li .footer-thumb i {
+        font-size: 27px;
+    }
+
+    .footer-support-list ul li {
+        margin-right: 24px !important;
+    }
+    .section-padding-form {
+        padding: 15px 0px;
+    }
+
+
+    .fa-map-marker{
+        margin-top: 20px;
+        float: left;
+        font-size: 19px;
+    }
+
+    .job-meta p {
+        padding: 16px 0 0 33px;
+        margin: 0;
+        line-height: 1;
+         font-size: 16px;
+    }
+
+    .loadmore_button .btn {
+        line-height: 1;
+        font-size: 15px;
+        padding: 5px 42px !important;
+    }
+    .lead {
+        font-size: 12px;
+        line-height: 30px;
+        margin: 0;
+        padding: 0;
+    }
+    .item-price span {
+        font-size: 18px;
+    }
+    .blog-section2 {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+    .side-events-item {
+        padding: 8px 10px;
+        margin: 0px 10px;
+        font-size: 13px;
+        overflow: hidden;
+        display: block;
+    }
+
+    .login-admin .login-form input[type="submit"] {
+        margin-top: 0px;
+        /* color: #fff; */
+        background-color: #2ecc71;
+    }
+
+    .login-admin1 .login-form input[type="submit"] {
+        margin-top: 15px;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+    }
+    .heading-holder h1 {
+        font-size: 20px;
+    }
+    .single-content p{
+        font-size: 14px;
+    }
+    .post-media img{
+        max-width: 30%;
+        float: right;
+    }
+    .job-meta a i {
+        margin-top: -95px;
+        float: left;
+    }
+    .freelancer-list .badge {
+        padding: 2px 10px;
+        float: right;
+        background-color: #ee5253 !important;
+        color: #fff !important;
+        border: 1px solid #ee5253 !important;
+    }
+
+    .table tr td h6{
+        font-size: 13px;
+    }
+    table tr {
+        border-bottom: 3px solid #131C24;
+        display: block;
+        margin-bottom: .625em;
+    }
+    .small, small {
+        font-size: 76%;
+    }
+    .label {
+        text-shadow: none!important;
+        font-size: 10px;
+        font-weight: 300;
+        padding: 3px 6px;
+        color: #fff;
+        font-family: "Open Sans",sans-serif;
+    }
+    h3 a{
+        font-size: 14px;
+    }
+    .about-section {
+        padding: 40px 0px;
+    }
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2360,-0.806535)">
+        <g id="Smartphone" transform="matrix(1,0,0,1,2360,0.806535)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g id="Smartphone1" serif:id="Smartphone">
+                <g transform="matrix(1.13566,0,0,1.13566,-6607.37,1141.28)">
+                    <circle cx="6308" cy="-534" r="366" style="fill:rgb(131,13,146);"/>
+                </g>
+                <g transform="matrix(0.6,0,0,0.6,232.35,210.843)">
+                    <g id="Smartphone2" serif:id="Smartphone">
+                        <g transform="matrix(1,0,0,1.06509,-2360,-35.1479)">
+                            <path d="M3224,93.84C3224,60.261 3194.96,33 3159.2,33L2640.8,33C2605.04,33 2576,60.261 2576,93.84L2576,986.16C2576,1019.74 2605.04,1047 2640.8,1047L3159.2,1047C3194.96,1047 3224,1019.74 3224,986.16L3224,93.84Z" style="fill:white;"/>
+                        </g>
+                        <g transform="matrix(0.82716,0,0,0.82716,-1892.27,167.667)">
+                            <circle cx="2940.5" cy="1039.5" r="40.5" style="fill:rgb(131,13,146);"/>
+                        </g>
+                        <g transform="matrix(5.50652,0,0,0.313459,-15400.9,28.8936)">
+                            <path d="M2923.31,66.202C2923.31,58.364 2922.94,52 2922.5,52L2867.31,52C2866.86,52 2866.5,58.364 2866.5,66.202L2866.5,94.605C2866.5,102.443 2866.86,108.807 2867.31,108.807L2922.5,108.807C2922.94,108.807 2923.31,102.443 2923.31,94.605L2923.31,66.202Z" style="fill:rgb(131,13,146);"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.935185,0,0,0.852071,-2172.04,79.8817)">
+                        <rect x="2576" y="33" width="648" height="1014" style="fill:rgb(131,13,146);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
